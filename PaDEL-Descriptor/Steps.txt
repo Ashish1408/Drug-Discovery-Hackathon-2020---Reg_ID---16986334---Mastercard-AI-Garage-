@@ -1,0 +1,2 @@
+cd <path>/Submission/PaDEL-Descriptor
+java -jar PaDEL-Descriptor.jar
